@@ -16,18 +16,18 @@ The model's performance was evaluated using the test portion of the dataset. Acc
 ## Usage
   To use this project for dog breed classification, follow these steps:
 
-  Clone this repository.
-  Download the Stanford Dogs Dataset and preprocess it as necessary.
-  Train the model using your dataset or pre-trained weights.  
-  Evaluate the model's performance on your test data.
-  Use the model for classifying dog breeds from images.
+ * Clone this repository.
+ * Download the Stanford Dogs Dataset and preprocess it as necessary.
+ * Train the model using your dataset or pre-trained weights.  
+ * Evaluate the model's performance on your test data.
+ * Use the model for classifying dog breeds from images.
 
 ## Dependencies
 This project relies on the following Python libraries:
 
-  Keras
-  TensorFlow
-  NumPy
-  Matplotlib
+  * Keras
+  * TensorFlow
+  * NumPy
+  * Matplotlib
   
 Ensure that you have these libraries installed in your environment before running the project and put files in correct directories.
