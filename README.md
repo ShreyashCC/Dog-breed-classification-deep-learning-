@@ -30,4 +30,4 @@ This project relies on the following Python libraries:
   NumPy
   Matplotlib
   
-Ensure that you have these libraries installed in your environment before running the project.
+Ensure that you have these libraries installed in your environment before running the project and put files in correct directories.
