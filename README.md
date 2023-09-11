@@ -20,7 +20,7 @@ The model's performance was evaluated using the test portion of the dataset. Acc
  * Download the Stanford Dogs Dataset and preprocess it as necessary.
  * Train the model using your dataset or pre-trained weights.  
  * Evaluate the model's performance on your test data.
- * Use the model for classifying dog breeds from images.
+ * Use the model for classifying dog breeds from My_Dog_Images.
 
 ## Dependencies
 This project relies on the following Python libraries:
