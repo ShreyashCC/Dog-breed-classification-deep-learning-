@@ -5,7 +5,7 @@ This project is a deep learning-based dog breed classification system implemente
 
 
 ##Dataset
-The dataset used for this project is taken from keggle. It contains over 10,000+ annotated images of 120 different unique dog breeds. The dataset is divided into training and test sets, which are used for training and evaluating the model, respectively.
+The dataset used for this project is taken from https://www.kaggle.com/competitions/dog-breed-identification/data . It contains over 10,000+ annotated images of 120 different unique dog breeds. The dataset is divided into training and test sets, which are used for training and evaluating the model, respectively.
 
 ##Model Architecture
 The deep learning model used for this project is a convolutional neural network (CNN). The architecture of the model consists of multiple convolutional layers followed by max-pooling layers to extract features from the input images. The final layers are fully connected (dense) layers that perform the actual classification. The model is trained to output the probability distribution over the 120 dog breeds.
