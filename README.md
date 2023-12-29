@@ -29,5 +29,6 @@ This project relies on the following Python libraries:
   * TensorFlow
   * NumPy
   * Matplotlib
+  * Pandas
   
 Ensure that you have these libraries installed in your environment before running the project and put files in correct directories.
